@@ -417,7 +417,7 @@ MARK:	Ядра двигателей
 /datum/supply_pack/faction/independent/machinery/rnd_full
 	name = "Suspicious circuits"
 	desc = "A set of specialized circuits for research and production. An unknown craftsman hacked them, now they are not limited by license. "
-	cost = 65000
+	cost = 20000
 	contains = list(/obj/item/circuitboard/machine/circuit_imprinter,
 					/obj/item/circuitboard/machine/protolathe,
 					/obj/item/circuitboard/machine/rdserver,
