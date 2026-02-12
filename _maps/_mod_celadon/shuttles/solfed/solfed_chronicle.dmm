@@ -1044,7 +1044,7 @@
 /turf/open/floor/plasteel/telecomms_floor,
 /area/ship/bridge)
 "ke" = (
-/obj/machinery/rnd/production/circuit_imprinter/department/science,
+/obj/machinery/rnd/production/circuit_imprinter,
 /obj/effect/turf_decal/corner/opaque/black/half,
 /turf/open/floor/mineral/titanium/tiled/purple,
 /area/ship/general/science/rnd)
@@ -3125,7 +3125,7 @@
 /turf/open/floor/plasteel/patterned/brushed,
 /area/ship/general/science/rnd)
 "CK" = (
-/obj/machinery/rnd/production/protolathe/department/science,
+/obj/machinery/rnd/production/protolathe,
 /obj/effect/turf_decal/siding/thinplating/dark{
 	dir = 1
 	},

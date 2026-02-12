@@ -100,6 +100,7 @@
 	dir = 8
 	},
 /obj/machinery/firealarm/directional/east,
+/obj/machinery/rnd/production/circuit_imprinter,
 /turf/open/floor/plating,
 /area/ship/engineering/atmospherics)
 "bZ" = (
@@ -1305,7 +1306,7 @@
 /obj/item/clothing/glasses/science,
 /obj/item/clothing/glasses/science/prescription,
 /obj/item/circuitboard/machine/experimentor,
-/obj/item/circuitboard/machine/protolathe/department/cargo,
+/obj/item/circuitboard/machine/protolathe,
 /turf/open/floor/plasteel/white,
 /area/ship/science)
 "yw" = (

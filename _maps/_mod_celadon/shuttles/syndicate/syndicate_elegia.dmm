@@ -816,7 +816,7 @@
 "of" = (
 /obj/machinery/light/directional/east,
 /obj/effect/turf_decal/corner/transparent/purple/mono,
-/obj/machinery/rnd/production/circuit_imprinter/department/science,
+/obj/machinery/rnd/production/circuit_imprinter,
 /obj/machinery/camera/autoname{
 	dir = 10
 	},
@@ -1515,7 +1515,7 @@
 /area/ship/maintenance/port)
 "yZ" = (
 /obj/effect/turf_decal/corner/transparent/purple/mono,
-/obj/machinery/rnd/production/protolathe/department/science,
+/obj/machinery/rnd/production/protolathe,
 /turf/open/floor/plasteel/tech,
 /area/ship/science)
 "zh" = (

@@ -1402,7 +1402,7 @@
 /obj/machinery/camera{
 	dir = 5
 	},
-/obj/machinery/rnd/production/techfab/department/science,
+/obj/machinery/rnd/production/techfab,
 /turf/open/floor/plasteel/tech/grid,
 /area/ship/science/robotics)
 "nf" = (
@@ -2077,7 +2077,7 @@
 /area/ship/science/robotics)
 "BH" = (
 /obj/item/radio/intercom/directional/west,
-/obj/machinery/rnd/production/circuit_imprinter/department/science,
+/obj/machinery/rnd/production/circuit_imprinter,
 /turf/open/floor/plasteel/tech/grid,
 /area/ship/science/robotics)
 "BI" = (

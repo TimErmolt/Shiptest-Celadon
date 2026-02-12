@@ -3790,7 +3790,7 @@
 /obj/effect/turf_decal/siding/purple{
 	dir = 8
 	},
-/obj/machinery/rnd/production/protolathe/department/science,
+/obj/machinery/rnd/production/protolathe,
 /obj/effect/turf_decal/industrial/warning,
 /obj/machinery/power/apc/auto_name/directional/north{
 	dir = 8;

@@ -2386,7 +2386,7 @@
 /turf/open/floor/plasteel/white,
 /area/ship/medical)
 "FP" = (
-/obj/machinery/rnd/production/circuit_imprinter/department/med,
+/obj/machinery/rnd/production/circuit_imprinter,
 /obj/effect/turf_decal/corner/opaque/purple/diagonal,
 /turf/open/floor/plasteel/white,
 /area/ship/general/science)
@@ -2956,7 +2956,7 @@
 /turf/open/floor/plasteel/white,
 /area/ship/medical)
 "OM" = (
-/obj/machinery/rnd/production/protolathe/department/medical,
+/obj/machinery/rnd/production/protolathe,
 /obj/effect/turf_decal/corner/opaque/purple/diagonal,
 /turf/open/floor/plasteel/white,
 /area/ship/general/science)

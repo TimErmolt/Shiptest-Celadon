@@ -1535,7 +1535,7 @@
 /turf/open/floor/wood,
 /area/ship/crew/law_office)
 "ji" = (
-/obj/machinery/rnd/production/protolathe/department/science,
+/obj/machinery/rnd/production/protolathe,
 /obj/effect/turf_decal/industrial/outline/yellow,
 /turf/open/floor/plasteel/dark,
 /area/ship/general/science)
@@ -3902,7 +3902,7 @@
 "wW" = (
 /obj/effect/turf_decal/industrial/outline/yellow,
 /obj/machinery/light/directional/south,
-/obj/machinery/rnd/production/circuit_imprinter/department/science,
+/obj/machinery/rnd/production/circuit_imprinter,
 /turf/open/floor/plasteel/dark,
 /area/ship/general/science)
 "wX" = (
